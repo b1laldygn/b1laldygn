@@ -3,4 +3,4 @@
 
 
 
-- 😶‍🌫️ Im can use easily linux bash and Im learning coding websites (and booming)
+- 😶‍🌫️ I can use easily linux bash and Im learning coding websites (and booming)
