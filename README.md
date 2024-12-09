@@ -6,13 +6,3 @@
 - 😶‍🌫️ I can use easily linux bash and Im learning coding machines like raspberry pi and arduino (and booming)
 
 
-
- _   _ _     _   _ 
- 
-| |_|_| | __| |_| |_ _ ___ ___ 
-
-| . | | ||. | | . | | | . |   |
-
-|___|_|_|___|_|___|_  |_  |_|_|
-
-                  |___|___|
